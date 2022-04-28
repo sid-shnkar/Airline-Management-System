@@ -68,7 +68,7 @@ Airline Management System is a dedicated and highly configurable system for all 
 * To view the available flight details, passenger has to give source, destination, and date and time.
 * After confirmation of reservation request, passenger can see the status.
 
-# Execution pics
+### Execution pics
 ![ams1](https://user-images.githubusercontent.com/104520126/165802309-8c554b9f-b213-4640-b3ca-eb989e102129.jpg)
 
 ![ams2](https://user-images.githubusercontent.com/104520126/165802307-35d0a624-5467-4bd5-8dfd-03f3b8206458.jpg)
