@@ -33,26 +33,26 @@ Airline Management System is a dedicated and highly configurable system for all 
 # Inputs
 
 * User Information
- - Passenger (Name, Email id, Password, Passport No, Passenger ID, Flight No, Source, Destination, Date, Time)
- - Administration (Admin ID, Name, Email id, Contact no, Password).
+ 1. Passenger (Name, Email id, Password, Passport No, Passenger ID, Flight No, Source, Destination, Date, Time)
+ 2. Administration (Admin ID, Name, Email id, Contact no, Password).
 
 * Flight Information
- - Domestic Flight (Type of Flight, Flight No, Source, Destination, In between stations, Date, Time, Type of class, Meal, Amount)
- - International Flight (Type of Flight, Flight No, Source, Destination, In between stations, Date, Time, Type of class, Meal, Amount)
- - 
+ 1. Domestic Flight (Type of Flight, Flight No, Source, Destination, In between stations, Date, Time, Type of class, Meal, Amount)
+ 2. International Flight (Type of Flight, Flight No, Source, Destination, In between stations, Date, Time, Type of class, Meal, Amount)
+ 
 # Operations
 
-* Administrator
- - Login
- - Manage passengers
- - Update the passenger’s status
+* Administrator:
+ 1. Login
+ 2. Manage passengers
+ 3. Update the passenger’s status
 
-* Passenger
- - Login
- - Edit Profile
- - Request to view the available flights as per requirement
- - Request for reservation
- - Ticket cancellation
+* Passenger:
+ 1. Login
+ 2. Edit Profile
+ 3. Request to view the available flights as per requirement
+ 4. Request for reservation
+ 5. Ticket cancellation
 
 # Outputs
 
