@@ -2,7 +2,7 @@
 
 A web development based project for simulating the airline flight reservation system.
 
-# Steps to run on your local machine:
+## Steps to run on your local machine:
 
 1. Copy the 'ams' folder in your 'htdocs' folder located inside xampp.
 2. In your web browser, type localhost/ams/  to open up the landing page of the website.
@@ -26,11 +26,11 @@ So, you need to add a new flight by logging as admin (using above details) and t
 For creating a new passenger record, Signup as passenger by going to Login/Signup --> Passenger Login --> Signup option.
 
 
-# Description
+## Description
 
 Airline Management System is a dedicated and highly configurable system for all airlines, which can be easily accessed by all users. It helps the users to book flights without visiting offline booking counters. This system can be accessible by any user from any location at any time. In such a system, a passenger should be able to view the availability of flights’ details, as per their requirement. They can book the flights online and can also cancel the reservation. The administrator manages the passenger booking system and updates the reservation status.
 
-# Inputs
+### Inputs
 
 * User Information
  1. Passenger (Name, Email id, Password, Passport No, Passenger ID, Flight No, Source, Destination, Date, Time)
@@ -40,7 +40,7 @@ Airline Management System is a dedicated and highly configurable system for all 
  1. Domestic Flight (Type of Flight, Flight No, Source, Destination, In between stations, Date, Time, Type of class, Meal, Amount)
  2. International Flight (Type of Flight, Flight No, Source, Destination, In between stations, Date, Time, Type of class, Meal, Amount)
  
-# Operations
+### Operations
 
 * Administrator:
  1. Login
@@ -54,14 +54,14 @@ Airline Management System is a dedicated and highly configurable system for all 
  4. Request for reservation
  5. Ticket cancellation
 
-# Outputs
+### Outputs
 
 * Display the available flights as per the user’s requirement.
 * Display the confirmation of reservation (Display record/Error message).
 * Print the ticket.
 
 
-# Constraints
+### Constraints
 
 * All the passengers must register themselves into the system.
 * Login information contains only passenger id and password.
