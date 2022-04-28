@@ -69,5 +69,11 @@ Airline Management System is a dedicated and highly configurable system for all 
 * After confirmation of reservation request, passenger can see the status.
 
 # Execution pics
+![ams1](https://user-images.githubusercontent.com/104520126/165802309-8c554b9f-b213-4640-b3ca-eb989e102129.jpg)
+![ams2](https://user-images.githubusercontent.com/104520126/165802307-35d0a624-5467-4bd5-8dfd-03f3b8206458.jpg)
+![ams3](https://user-images.githubusercontent.com/104520126/165802303-4c2d3368-9532-411c-9706-fd7ab08bc6b9.jpg)
+![ams4](https://user-images.githubusercontent.com/104520126/165802301-900c06f1-a40b-4280-a239-4a9e626431f3.jpeg)
+![ams5](https://user-images.githubusercontent.com/104520126/165802299-88061d5e-a2b2-426f-ba78-a2395e63c059.jpg)
+![ams6](https://user-images.githubusercontent.com/104520126/165802296-9e2b6cc9-d99e-423e-a5d4-1b2df43b67b0.jpg)
 
 
