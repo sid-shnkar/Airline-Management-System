@@ -44,8 +44,10 @@ Airline Management System is a dedicated and highly configurable system for all 
 
 * Administrator:
  1. Login
- 2. Manage passengers
- 3. Update the passenger’s status
+ 2. Manage passenger records (Delete/Update)
+ 3. Update the passenger’s reservation status (Confirmed/Waiting/Cancelled)
+ 4. Add/Update/Remove a flight
+ 5. Manage booked flights for flight status
 
 * Passenger:
  1. Login
@@ -53,6 +55,8 @@ Airline Management System is a dedicated and highly configurable system for all 
  3. Request to view the available flights as per requirement
  4. Request for reservation
  5. Ticket cancellation
+ 6. View flight status
+ 
 
 ### Outputs
 
